@@ -1,0 +1,97 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "United States",
+				"iso_a3": "USA",
+				"pop_est": 331000000
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[-124.7, 24.5],
+						[-66.9, 24.5],
+						[-66.9, 49.3],
+						[-124.7, 49.3],
+						[-124.7, 24.5]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "name": "Brazil", "iso_a3": "BRA", "pop_est": 212000000 },
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[-73.9, -33.7],
+						[-34.7, -33.7],
+						[-34.7, 5.2],
+						[-73.9, 5.2],
+						[-73.9, -33.7]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "name": "France", "iso_a3": "FRA", "pop_est": 67000000 },
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[[-4.7, 42.3], [8.2, 42.3], [8.2, 51.1], [-4.7, 51.1], [-4.7, 42.3]]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Australia",
+				"iso_a3": "AUS",
+				"pop_est": 25000000
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[113.1, -43.6],
+						[153.6, -43.6],
+						[153.6, -10.6],
+						[113.1, -10.6],
+						[113.1, -43.6]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "name": "Japan", "iso_a3": "JPN", "pop_est": 126000000 },
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[129.5, 30.9],
+						[145.8, 30.9],
+						[145.8, 45.5],
+						[129.5, 45.5],
+						[129.5, 30.9]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "name": "Egypt", "iso_a3": "EGY", "pop_est": 102000000 },
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[[24.7, 22.0], [36.9, 22.0], [36.9, 31.6], [24.7, 31.6], [24.7, 22.0]]
+				]
+			}
+		}
+	]
+}
